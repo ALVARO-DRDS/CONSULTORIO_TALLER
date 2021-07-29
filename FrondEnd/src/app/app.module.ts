@@ -15,6 +15,8 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatButtonModule} from '@angular/material/button';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatInputModule} from '@angular/material/input';
+import { AdminComponent } from './components/admin/admin.component';
+import { ListComponent } from './components/list/list.component';
 
 
 
@@ -24,7 +26,9 @@ import {MatInputModule} from '@angular/material/input';
   declarations: [
     AppComponent,
     HomeComponent,
-    LoginComponent
+    LoginComponent,
+    AdminComponent,
+    ListComponent
   ],
   imports: [
     BrowserModule,

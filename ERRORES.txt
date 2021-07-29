@@ -1,0 +1,17 @@
+Error: Cannot find module 'node-thumbnail'
+npm i node-thumbnail
+Error: Cannot find module 'connect-multiparty'
+npm install connect-multiparty
+
+Instalar boostrap
+
+npm install bootstrap --save
+
+],
+            "styles": [
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
+            ],
+
+
+npm i @angular/http
